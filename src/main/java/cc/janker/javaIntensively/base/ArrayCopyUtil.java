@@ -11,6 +11,10 @@ public class ArrayCopyUtil {
 	}
 	
 	public static void main(String[] args) {
+		//arrayCopy();
+		
+	}
+	private static void arrayCopy() {
 		int[] oldArray = {1,2,3,4,5};
 		int[] newArray = new int[oldArray.length];
 //		ArrayCopyUtil.arrayCopyBySystem(oldArray, newArray);
