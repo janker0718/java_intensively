@@ -45,6 +45,7 @@ public class HightArray {
 		
 	}
 	
+	
 	public void display(){
 		for (int j = 0; j < nElems; j++) {
 			System.out.print(a[j]+ " ");
