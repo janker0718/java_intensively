@@ -2,3 +2,17 @@
 /.settings/
 /.classpath
 /.project
+/java_pid3600_Leak_Suspects.zip
+/java_pid3600.a2s.index
+/java_pid3600.domIn.index
+/java_pid3600.domOut.index
+/java_pid3600.hprof
+/java_pid3600.idx.index
+/java_pid3600.inbound.index
+/java_pid3600.index
+/java_pid3600.o2c.index
+/java_pid3600.o2hprof.index
+/java_pid3600.o2ret.index
+/java_pid3600.outbound.index
+/java_pid3600.threads
+/java_pid3600.i2sv2.index
